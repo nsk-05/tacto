@@ -13,7 +13,7 @@ import cv2
 import numpy as np
 import pybullet as p
 import trimesh
-from murdfpy import URDF
+from urdfpy import URDF
 
 from .renderer import Renderer
 
